@@ -5,6 +5,12 @@
 Recentemente, iniciei minha transição de carreira para a área de tecnologia com a imersão de um mês na 42 São Paulo. 😊 Desde esse período, venho estudando linguagem C e lógica de programação. 
 
 Além disso, sou formada em Letras (português/espanhol) pela USP e sou apaixonada por línguas e literatura. 📖
+
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  
+</div>
+
 ##
 ![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancasantana81&show_icons=true&theme=radical)
 
