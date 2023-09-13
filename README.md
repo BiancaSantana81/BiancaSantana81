@@ -2,7 +2,7 @@
 
 
 ##
-Recentemente, iniciei minha transição de carreira para a área de tecnologia com a imersão de um mês na 42 São Paulo. 😊 Desde esse período, venho estudando linguagem C e lógica de programação. 
+Recentemente, iniciei minha transição de carreira para a área de tecnologia com a imersão de um mês na Piscina da 42 São Paulo. 😊 Desde esse período, venho estudando linguagem C e lógica de programação. 
 
 Além disso, sou formada em Letras (português/espanhol) pela USP e sou apaixonada por línguas e literatura. 📖
 
