@@ -2,9 +2,10 @@
 
 
 ##
-Recentemente, iniciei minha transição de carreira para a área de tecnologia com a imersão de um mês na Piscina da 42 São Paulo. 😊 Desde esse período, venho estudando linguagem C e lógica de programação. 
 
-Além disso, sou formada em Letras (português/espanhol) pela USP e sou apaixonada por línguas e literatura. 📖
+Estudante de Engenharia de Software na 42 São Paulo. Atualmente, minha dedicação está exclusivamente voltada em me tornar uma programadora habilidosa e contribuir com a comunidade de tecnologia. 📖
+
+Quer me conhecer melhor? Me adiciona no LinkedIn 😊
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
