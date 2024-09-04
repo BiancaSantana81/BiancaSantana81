@@ -7,9 +7,9 @@ Estudante de Engenharia de Software na 42 São Paulo. Atualmente, minha dedicaç
 
 Quer me conhecer melhor? Me adiciona no LinkedIn 😊
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-          
+<div style="display: inline-block"><br>
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
 ##
