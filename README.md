@@ -1,17 +1,21 @@
 **Hello! 👋 Call me Bia. Welcome to my GitHub! 😊**
 
-I’m currently transitioning into a back-end development career. I’m studying at 42 São Paulo, where I am diving into the fundamentals of software development.
-
+I am a full-stack developer building an e-learning platform for the NGO Despertar (42 Labs). Currently, I study at 42 São Paulo, where I am diving into the fundamentals of Software Development.
 
 **🌱 What I’m currently learning:**
 
+- Docker (containers for development environments).
+- TypeScript (Node.js for back-end and React/Next.js for front-end).
+- MySQL (relational databases).
 - Java and C++.
 - Data structures and object-oriented programming (OOP).
 - Writing unit tests with JUnit and best practices for ensuring code quality.
 
 
+
 **🔨 Skills and experience:**
-I have experience with development fundamentals and programming logic, using C and C++. I possess knowledge of data structures. I am experienced in Object-Oriented Programming (OOP) and use Git/GitHub for version control.
+
+I have experience with development fundamentals and programming logic, using C and C++. Currently, I work as a full-stack developer at 42Labs, contributing to the development of an e-learning platform using TypeScript, React, Next.js, Docker, and MySQL. I also have practice in Object-Oriented Programming (OOP) and use Git/GitHub for version control and project management.
 
 
 **📫 How to reach me:**
