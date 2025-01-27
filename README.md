@@ -35,10 +35,13 @@ Graduated in Linguistics (Portuguese/Spanish) from USP. I'm fascinated by langua
 ##
 
 <div style="display: inline-block"><br>
+    <img align="center" alt="C++" height="40" width="40" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1" />
     <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"" />
     <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img align="center" alt="C" height="40" width="40" src="https://img.icons8.com/color/48/docker.png" alt="docker" />
+     <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+     <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
           
-
 </div>
 
