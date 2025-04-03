@@ -1,47 +1,35 @@
-**Hello! 👋 Call me Bia. Welcome to my GitHub! 😊**
+**Olá! 👋 Pode me chamar de Bia. Bem-vinda (o) ao meu GitHub!  😊**
 
-I am a full-stack developer building an e-learning platform for the NGO Despertar (42 Labs). Currently, I study at 42 São Paulo, where I am diving into the fundamentals of Software Development.
+Sou desenvolvedora full-stack na construção da plataforma Despertar Digital para a ONG Despertar (42Labs). Atualmente, estudo na **42 São Paulo**, onde estou mergulhando nos fundamentos de Desenvolvimento de Software.
 
-**🌱 What I’m currently learning:**
+**🌱 O que estou aprendendo atualmente:**
 
-- Docker (containers for development environments).
-- TypeScript (Node.js for back-end and React/Next.js for front-end).
-- MySQL (relational databases).
-- Java and C++.
-- Data structures and object-oriented programming (OOP).
-- Writing unit tests with JUnit and best practices for ensuring code quality.
+- Docker e contêineres para ambiente de desenvolvimento.
+- MySQL (bancos de dados relacionais).
+- Java e C++.  
+- Estruturas de dados e programação orientada a objetos (POO).  
 
+**🔨 Habilidades e experiências:**
 
+Tenho experiência com fundamentos de desenvolvimento e lógica de programação, utilizando C e C++. Atualmente, trabalho como desenvolvedora full-stack no 42Labs, contribuindo para a construção da plataforma Despertar Digital para a ONG Despertar.
 
-**🔨 Skills and experience:**
-
-I have experience with development fundamentals and programming logic, using C and C++. Currently, I work as a full-stack developer at 42Labs, contributing to the development of an e-learning platform using TypeScript, React, Next.js, Docker, and MySQL. I also have practice in Object-Oriented Programming (OOP) and use Git/GitHub for version control and project management.
-
-
-**📫 How to reach me:**
+**📫  Como me encontrar:**
 
 - [My LinkedIn](https://www.linkedin.com/in/biancasantanas/)
 - [Send me an email](mailto:biancasantana81@hotmail.com)
 
 
-
-💬 **Ask me about:**
-My learning in graphic project development (a hobby I’m excited to explore even more in the coming months). 👾
-
-
-**😄 Fun facts:**
-Graduated in Linguistics (Portuguese/Spanish) from USP. I'm fascinated by language acquisition and linguistics. Additionally, I worked as a copywriter for three years and I'm passionate about writing. 💛
+**😄 Curiosidades:**
+Formada em Letras (Português/Espanhol) pela USP, sou fascinada por aquisição de linguagem e linguística. Além disso, fui redatora por três anos e sou apaixonada pela escrita. 💛
 
 ##
 
 <div style="display: inline-block"><br>
-    <img align="center" alt="C++" height="40" width="40" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1" />
     <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"" />
     <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img align="center" alt="C" height="40" width="40" src="https://img.icons8.com/color/48/docker.png" alt="docker" />
-     <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-     <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-          
+    <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+
 </div>
 
