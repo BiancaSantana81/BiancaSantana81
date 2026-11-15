@@ -1,6 +1,6 @@
 
 - Back-end developer
-- Human Coder na 42 São Paulo
+- Formada em Enhenharia de Software pela 42 São Paulo
 - Formada em Letras pela Universidade de São Paulo
 
 **📫  Como me encontrar:**
