@@ -1,7 +1,5 @@
-Desenvolvedora que usa a inteligência humana para criar código e se divertir no caminho ✨️
 
-- Back-end developer na Ebury Bank
-- Estudante de Engenharia da computação na Univesp
+- Back-end developer
 - Human Coder na 42 São Paulo
 - Formada em Letras pela Universidade de São Paulo
 
